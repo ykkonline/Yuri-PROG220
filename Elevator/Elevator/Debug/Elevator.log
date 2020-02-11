@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\tonbe\source\repos\Elevator\Elevator\main.c(39,9): warning C4013: 'toupper' undefined; assuming extern returning int
+  Elevator.vcxproj -> C:\Users\tonbe\source\repos\Elevator\Debug\Elevator.exe
